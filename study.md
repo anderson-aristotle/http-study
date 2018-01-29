@@ -113,11 +113,6 @@ What are HTTP status codes?
 1. [Know about HTTP URL](https://www.youtube.com/watch?v=ADQ_rhefgEk)
 1. [Understanding HTTP Request Response Messages](https://www.youtube.com/watch?v=sxiRFwQ1RJ4)
 
-## Additional Resources
-
-- [Conquering the Command Line: `curl`](http://conqueringthecommandline.com/book/curl)
-- [Media Types](http://en.wikipedia.org/wiki/Internet_media_type)
-
 ## Questions
 
 Use your favorite search engine and the provided readings to research and
@@ -179,3 +174,8 @@ an easy-to-reference place.
 ```md
 <!-- your answer here -->
 ```
+
+## Additional Resources
+
+- [Conquering the Command Line: `curl`](http://conqueringthecommandline.com/book/curl)
+- [Media Types](http://en.wikipedia.org/wiki/Internet_media_type)
