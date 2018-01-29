@@ -24,7 +24,7 @@ mean when we say "server", as in this diagram:
 
 > ![http-xkcd](https://cloud.githubusercontent.com/assets/388761/12621764/0ffb527e-c4f0-11e5-87ae-d597e3835fcd.png)
 >
-> [Symfony and HTTP Fundamentals (The Symfony Book)](http://symfony.com/doc/current/book/http_fundamentals.html)
+> Link to material in Additional Resources at bottom of this file.
 
 1. A client sends a request to a server.
 1. The server processes the request.
@@ -180,3 +180,4 @@ an easy-to-reference place.
 
 - [Conquering the Command Line: `curl`](http://conqueringthecommandline.com/book/curl)
 - [Media Types](http://en.wikipedia.org/wiki/Internet_media_type)
+- [Symfony and HTTP Fundamentals (The Symfony Book)](http://symfony.com/doc/current/book/http_fundamentals.html)
