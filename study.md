@@ -26,10 +26,10 @@ mean when we say "server", as in this diagram:
 >
 > [Symfony and HTTP Fundamentals (The Symfony Book)](http://symfony.com/doc/current/book/http_fundamentals.html)
 
-1.  A client sends a request to a server.
-1.  The server processes the request.
-1.  The response gets sent back to the client.
-1.  The client processes the response.
+1. A client sends a request to a server.
+1. The server processes the request.
+1. The response gets sent back to the client.
+1. The client processes the response.
 
 ## URLs
 
@@ -51,8 +51,8 @@ By default, the browser issues GET requests when you type a URL into the address
 bar and press `enter`. When you submit forms, the browser typically issues a
 POST request.
 
--   [A Beginner’s Guide to HTTP and REST - Envato Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340)
--   [HTTP Methods for RESTful Services](http://www.restapitutorial.com/lessons/httpmethods.html)
+- [A Beginner’s Guide to HTTP and REST - Envato Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340)
+- [HTTP Methods for RESTful Services](http://www.restapitutorial.com/lessons/httpmethods.html)
 
 ## Make a Request
 
@@ -105,19 +105,19 @@ JSON) as part of the response body.
 
 What are HTTP status codes?
 
--   [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
--   [HTTP Status Codes in a Nutshell](https://twitter.com/stevelosh/status/372740571749572610)
+- [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+- [HTTP Status Codes in a Nutshell](https://twitter.com/stevelosh/status/372740571749572610)
 
 ## Videos
 
-1.  [Basic concepts of web applications, how they work and the HTTP protocol](https://www.youtube.com/watch?v=RsQ1tFLwldY)
-1.  [Know about HTTP URL](https://www.youtube.com/watch?v=ADQ_rhefgEk)
-1.  [Understanding HTTP Request Response Messages](https://www.youtube.com/watch?v=sxiRFwQ1RJ4)
+1. [Basic concepts of web applications, how they work and the HTTP protocol](https://www.youtube.com/watch?v=RsQ1tFLwldY)
+1. [Know about HTTP URL](https://www.youtube.com/watch?v=ADQ_rhefgEk)
+1. [Understanding HTTP Request Response Messages](https://www.youtube.com/watch?v=sxiRFwQ1RJ4)
 
 ## Additional Resources
 
--   [Conquering the Command Line: `curl`](http://conqueringthecommandline.com/book/curl)
--   [Media Types](http://en.wikipedia.org/wiki/Internet_media_type)
+- [Conquering the Command Line: `curl`](http://conqueringthecommandline.com/book/curl)
+- [Media Types](http://en.wikipedia.org/wiki/Internet_media_type)
 
 ## Questions
 
