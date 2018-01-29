@@ -104,8 +104,9 @@ JSON) as part of the response body.
 
 What are HTTP status codes?
 
+
+![](https://pbs.twimg.com/media/BeMUtg4CMAA59I6.jpg)
 - [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
-- [HTTP Status Codes in a Nutshell](https://twitter.com/stevelosh/status/372740571749572610)
 
 ## Videos
 
