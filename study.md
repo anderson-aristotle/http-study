@@ -12,13 +12,13 @@ of the messages passed between *clients* and *servers*.
 "Clients" send *requests* and receive *responses*. Examples include browsers
 (like Chrome, Safari, or Firefox) and other programs like
 [`curl`](http://curl.haxx.se/docs/) and
-[`wget`](http://www.gnu.org/software/wget/manual/wget.html).
+[`wget`](http://www.gnu.org/software/wget/manual/wget.html) (these two links are to be used as a reference and don't need to be read in their entirety).
 
 "Servers" receive requests and send responses. Examples are more complex, since
 there are different kinds of servers. There are application servers, which work
 in Node or Ruby to generate documents using those languages, and there are web
 servers like [Apache](http://httpd.apache.org/), [nginx](http://nginx.com/), and
-[lighttpd](https://www.lighttpd.net). The word "server" is also used to describe
+[lighttpd](https://www.lighttpd.net) (again use these three links as references, do not try to read them all now). The word "server" is also used to describe
 the machine that these programs run on. In this document, the latter is what we
 mean when we say "server", as in this diagram:
 
@@ -38,7 +38,6 @@ with? Both of these questions are answered by *uniform resource locator (URL)*.
 
 > ![URL](https://cloud.githubusercontent.com/assets/388761/12622184/2c0143dc-c4f2-11e5-84af-55f723dd6639.png)
 >
-> unknown source
 
 Study each part of a URL using the [Mozilla Developer Network
 Documentation](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL).
