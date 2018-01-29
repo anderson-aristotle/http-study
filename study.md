@@ -12,24 +12,24 @@ of the messages passed between *clients* and *servers*.
 "Clients" send *requests* and receive *responses*. Examples include browsers
 (like Chrome, Safari, or Firefox) and other programs like
 [`curl`](http://curl.haxx.se/docs/) and
-[`wget`](http://www.gnu.org/software/wget/manual/wget.html).
+[`wget`](http://www.gnu.org/software/wget/manual/wget.html) (these two links are to be used as a reference and don't need to be read in their entirety).
 
 "Servers" receive requests and send responses. Examples are more complex, since
 there are different kinds of servers. There are application servers, which work
 in Node or Ruby to generate documents using those languages, and there are web
 servers like [Apache](http://httpd.apache.org/), [nginx](http://nginx.com/), and
-[lighttpd](https://www.lighttpd.net). The word "server" is also used to describe
+[lighttpd](https://www.lighttpd.net) (again use these three links as references, do not try to read them all now). The word "server" is also used to describe
 the machine that these programs run on. In this document, the latter is what we
 mean when we say "server", as in this diagram:
 
 > ![http-xkcd](https://cloud.githubusercontent.com/assets/388761/12621764/0ffb527e-c4f0-11e5-87ae-d597e3835fcd.png)
 >
-> [Symfony and HTTP Fundamentals (The Symfony Book)](http://symfony.com/doc/current/book/http_fundamentals.html)
+> Link to material in Additional Resources at bottom of this file.
 
-1.  A client sends a request to a server.
-1.  The server processes the request.
-1.  The response gets sent back to the client.
-1.  The client processes the response.
+1. A client sends a request to a server.
+1. The server processes the request.
+1. The response gets sent back to the client.
+1. The client processes the response.
 
 ## URLs
 
@@ -38,7 +38,6 @@ with? Both of these questions are answered by *uniform resource locator (URL)*.
 
 > ![URL](https://cloud.githubusercontent.com/assets/388761/12622184/2c0143dc-c4f2-11e5-84af-55f723dd6639.png)
 >
-> unknown source
 
 Study each part of a URL using the [Mozilla Developer Network
 Documentation](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL).
@@ -51,8 +50,8 @@ By default, the browser issues GET requests when you type a URL into the address
 bar and press `enter`. When you submit forms, the browser typically issues a
 POST request.
 
--   [A Beginner’s Guide to HTTP and REST - Envato Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340)
--   [HTTP Methods for RESTful Services](http://www.restapitutorial.com/lessons/httpmethods.html)
+- [A Beginner’s Guide to HTTP and REST - Envato Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340)
+- [HTTP Methods for RESTful Services](http://www.restapitutorial.com/lessons/httpmethods.html)
 
 ## Make a Request
 
@@ -105,19 +104,15 @@ JSON) as part of the response body.
 
 What are HTTP status codes?
 
--   [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
--   [HTTP Status Codes in a Nutshell](https://twitter.com/stevelosh/status/372740571749572610)
+
+![](https://pbs.twimg.com/media/BeMUtg4CMAA59I6.jpg)
+- [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 
 ## Videos
 
-1.  [Basic concepts of web applications, how they work and the HTTP protocol](https://www.youtube.com/watch?v=RsQ1tFLwldY)
-1.  [Know about HTTP URL](https://www.youtube.com/watch?v=ADQ_rhefgEk)
-1.  [Understanding HTTP Request Response Messages](https://www.youtube.com/watch?v=sxiRFwQ1RJ4)
-
-## Additional Resources
-
--   [Conquering the Command Line: `curl`](http://conqueringthecommandline.com/book/curl)
--   [Media Types](http://en.wikipedia.org/wiki/Internet_media_type)
+1. [Basic concepts of web applications, how they work and the HTTP protocol](https://www.youtube.com/watch?v=RsQ1tFLwldY)
+1. [Know about HTTP URL](https://www.youtube.com/watch?v=ADQ_rhefgEk)
+1. [Understanding HTTP Request Response Messages](https://www.youtube.com/watch?v=sxiRFwQ1RJ4)
 
 ## Questions
 
@@ -180,3 +175,9 @@ an easy-to-reference place.
 ```md
 <!-- your answer here -->
 ```
+
+## Additional Resources
+
+- [Conquering the Command Line: `curl`](http://conqueringthecommandline.com/book/curl)
+- [Media Types](http://en.wikipedia.org/wiki/Internet_media_type)
+- [Symfony and HTTP Fundamentals (The Symfony Book)](http://symfony.com/doc/current/book/http_fundamentals.html)
