@@ -107,11 +107,9 @@ What are HTTP status codes?
 ![](https://pbs.twimg.com/media/BeMUtg4CMAA59I6.jpg)
 - [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 
-## Videos
+## Video
 
 1. [Basic concepts of web applications, how they work and the HTTP protocol](https://www.youtube.com/watch?v=RsQ1tFLwldY)
-1. [Know about HTTP URL](https://www.youtube.com/watch?v=ADQ_rhefgEk)
-1. [Understanding HTTP Request Response Messages](https://www.youtube.com/watch?v=sxiRFwQ1RJ4)
 
 ## Questions
 
