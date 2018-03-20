@@ -50,7 +50,6 @@ By default, the browser issues GET requests when you type a URL into the address
 bar and press `enter`. When you submit forms, the browser typically issues a
 POST request.
 
-- [A Beginner’s Guide to HTTP and REST - Envato Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340)
 - [HTTP Methods for RESTful Services](http://www.restapitutorial.com/lessons/httpmethods.html)
 
 ## Make a Request
