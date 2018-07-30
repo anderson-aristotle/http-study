@@ -137,9 +137,9 @@ In your own words, give a brief description of what HTTP is.
 <!-- your answer here -->
 ```
 
-## Describe the 4 most common HTTP verbs
+## Describe the 5 most common HTTP verbs
 
-What are the 4 most common HTTP verbs used when creating a RESTful API. How
+What are the 5 most common HTTP verbs used when creating a RESTful API? How
 would you use each?
 
 ```md
