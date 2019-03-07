@@ -110,7 +110,7 @@ What are HTTP status codes?
 
 ## Video
 
-[Basic concepts of web applications, how they work and the HTTP protocol](https://www.youtube.com/watch?v=RsQ1tFLwldY)
+[The Internet: HTTP & HTML](https://www.youtube.com/watch?v=kBXQZMmiA4s)
 
 ## Questions
 
