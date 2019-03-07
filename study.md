@@ -11,14 +11,16 @@ of the messages passed between *clients* and *servers*.
 
 "Clients" send *requests* and receive *responses*. Examples include browsers
 (like Chrome, Safari, or Firefox) and other programs like
-[`curl`](http://curl.haxx.se/docs/) and
-[`wget`](http://www.gnu.org/software/wget/manual/wget.html) (these two links are to be used as a reference and don't need to be read in their entirety).
+[`curl`](http://curl.haxx.se/docs/) and [`wget`](http://www.gnu.org/software/wget/manual/wget.html)
+(these two links are to be used as a reference and don't need to be read in
+their entirety).
 
 "Servers" receive requests and send responses. Examples are more complex, since
 there are different kinds of servers. There are application servers, which work
 in Node or Ruby to generate documents using those languages, and there are web
 servers like [Apache](http://httpd.apache.org/), [nginx](http://nginx.com/), and
-[lighttpd](https://www.lighttpd.net) (again use these three links as references, do not try to read them all now). The word "server" is also used to describe
+[lighttpd](https://www.lighttpd.net) (again use these three links as references,
+do not try to read them all now). The word "server" is also used to describe
 the machine that these programs run on. In this document, the latter is what we
 mean when we say "server", as in this diagram:
 
@@ -103,13 +105,12 @@ JSON) as part of the response body.
 
 What are HTTP status codes?
 
-
-![](https://pbs.twimg.com/media/BeMUtg4CMAA59I6.jpg)
+![http status codes image](https://pbs.twimg.com/media/BeMUtg4CMAA59I6.jpg)
 - [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 
 ## Video
 
-1. [Basic concepts of web applications, how they work and the HTTP protocol](https://www.youtube.com/watch?v=RsQ1tFLwldY)
+[Basic concepts of web applications, how they work and the HTTP protocol](https://www.youtube.com/watch?v=RsQ1tFLwldY)
 
 ## Questions
 
