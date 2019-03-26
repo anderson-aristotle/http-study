@@ -2,6 +2,10 @@
 
 # HTTP Study
 
+## Prerequisites
+
+- [jquery-dom](https://git.generalassemb.ly/ga-wdi-boston/jquery-dom)
+
 ## Objectives
 
 By the end of this, developers should be able to:
