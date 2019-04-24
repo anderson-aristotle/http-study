@@ -127,7 +127,8 @@ material. Instead, digest what you've read and repeat it in your own voice.
 In your own words, give a brief description of what HTTP is.
 
 ```md
-<!-- your answer here -->
+HTTP is a protocol system of rules that determines how documents are transferred from one place
+to another. It is the language between clients and servers.
 ```
 
 ## Describe what a client is and what a server is
@@ -135,7 +136,12 @@ In your own words, give a brief description of what HTTP is.
  What is a client and what is a server? How do they interact with each other?
 
 ```md
-<!-- your answer here -->
+Client sends requests and recieves responses from servers.
+Server receives requests and send responses to clients
+
+The client sends a request to a server.
+The server processes the requests and sends it to the client.
+The client processes the response.
 ```
 
 ## Describe the 5 most common HTTP verbs
@@ -144,7 +150,11 @@ What are the 5 most common HTTP verbs used when creating a RESTful API? How
 would you use each?
 
 ```md
-<!-- your answer here -->
+GET: Read data from the API
+POST: Create a new resource
+PATCH: Update the provided fields of a resource
+PUT: Replace an exisiting resource with the data we send
+DELETE: Destroy all reference and information pertaining to a resource
 ```
 
 ## Describe what a Response is
@@ -153,7 +163,13 @@ What is a response? What does it contain? What are some common status codes in a
 response and what do they mean?
 
 ```md
-<!-- your answer here -->
+Common Status Code:
+100 - Informational Response
+200 - success
+300 - redirect
+400 - client error
+500 - server error
+
 ```
 
 ## Make a curl request
@@ -161,7 +177,7 @@ response and what do they mean?
 Using curl, how would you get the content from Reddit.com?
 
 ```md
-<!-- your answer here -->
+ curl --request GET https://www.reddit.com/
 ```
 
 ## Describe the parts of a URL
@@ -171,7 +187,11 @@ refer to this list often in the next few weeks, so it's important to keep it in
 an easy-to-reference place.
 
 ```md
-<!-- your answer here -->
+protocol: indicates which protocal the browser must use, HTTP, HTTPS, or other mailto:
+HOST: indicates which web server is being requested
+PORT: indicates the technical "gate" used to access the resources on the web server
+Resource Path: The path to the resource on the Web server
+Query: Extra parameters provifed to the web server
 ```
 
 ## Additional Resources
