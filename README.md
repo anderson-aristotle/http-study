@@ -36,3 +36,4 @@ requests](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/PullRequest).
     alternative licensing, please contact legal@ga.co.
 # html-css-study
 # http-study
+# http-study
